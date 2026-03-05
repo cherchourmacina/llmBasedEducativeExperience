@@ -14,7 +14,7 @@ Pour mettre en place et exécuter ce projet, suivez les instructions ci-dessous 
 - Téléchargez et installez `Ollama` depuis [ollama.com](https://ollama.com/) pour permettre l'analyse avancée du langage.
 
 ### Dépendances
-Les dépendances nécessaires sont listées dans le fichier `src/requirements.txt` du projet.
+Les dépendances nécessaires sont listées dans le fichier `requirements.txt` du projet.
 ## Configuration
 Créez un fichier `.env` à la racine de votre projet et ajoutez-y la clé API nécessaire pour le modèle LLM, dans notre cas on utilise une API de Groq que vous pouvez créer un compte et avoir accés a une API directement sur [GroqCloud.com](https://console.groq.com/)
 ```plaintext
